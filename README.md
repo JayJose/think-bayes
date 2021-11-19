@@ -7,3 +7,5 @@ conda env create -f environment.yml
 conda activate ThinkBayes2
 source deactivate
 ```
+
+Exercise solutions are found [here](https://github.com/AllenDowney/ThinkBayes2/tree/master/soln)
